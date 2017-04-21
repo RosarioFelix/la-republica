@@ -147,9 +147,9 @@ h4{
   width: 23%;
   height: 210px;
   background-color: #1363a9;
-  position: absolute;
-  top: 210px;
-  left: 850px
+  position: relative;
+  top: -500px;
+  left: 720px
 
 }
 .parrafo-cinco{
