@@ -6,9 +6,13 @@
 }
 
 .sprite-alcalde-de-chilca {
-    width: 243px;
-    height: 270px;
+    width: 200px;
+    height: 200px;
     background-position: -5px -5px;
+    position: absolute;
+    margin-top: -135px;
+    margin-left: 30px;
+    
 }
 
 .sprite-alejandra-aramayo {
@@ -52,5 +56,5 @@
     height: 84px;
     background-position: -580px -265px;
     margin-top:-54px;
-    margin-left: 60px;
+    margin-left: 110px;
 }
